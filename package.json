@@ -1,13 +1,13 @@
 {
   "name": "fast-tp",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "快速模版脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "tp-cli": "./bin/cli.js"
+    "fast-tp": "./bin/cli.js"
   },
   "keywords": [],
   "author": "",

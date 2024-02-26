@@ -20,7 +20,7 @@ const choicesMenu = {
 clear()
 
 // 绘制 LOGO
-log(figlet.textSync("TP-CLI", {
+log(figlet.textSync("FAST_TP", {
   horizontalLayout: "Isometric1",
   verticalLayout: "default",
   width: 80,
