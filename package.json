@@ -1,5 +1,5 @@
 {
-  "name": "tp-cli",
+  "name": "fast-tp",
   "version": "1.0.0",
   "description": "快速模版脚手架",
   "main": "index.js",
